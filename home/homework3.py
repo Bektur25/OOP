@@ -35,8 +35,6 @@ class Calculator(Add, Sub, Mull, Truediv):
         super().__init__(number1)
 
 
-
-
 first = Calculator(34542)
 second = Calculator(23)
 
